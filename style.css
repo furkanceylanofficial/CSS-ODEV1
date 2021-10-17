@@ -1,0 +1,76 @@
+
+body{
+    background-color:rgb(215, 228, 212);
+}
+
+nav{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+a{
+    color: rgb(236, 126, 144);
+    font-size: 20px;
+    padding: 10px;
+}
+
+h1{
+    color:rgb(28, 126, 126);
+    font-size: 50px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+h2{
+    color: seagreen;
+    font-size: 35px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+h3{
+    color: tan;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+ul{
+    color: royalblue;
+    font-size: 15px;
+    text-align: center;
+    list-style-position: inside;
+    font-family: sans-serif;
+    font-style: italic;
+
+}
+
+.p1{
+    font-size: 15px;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.p2{
+    font-size: 13px;
+    font-family: cursive;
+    font-style: normal;
+}
+
+ol{
+    color: rgb(175, 32, 7);
+    font-size: 17px;
+    text-align: center;
+    list-style-position: inside;
+    font-family: sans-serif;
+    font-style: italic;
+}
